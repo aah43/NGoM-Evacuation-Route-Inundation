@@ -1,7 +1,7 @@
 ##--------------------------------------------------------------------------------
 ## Evacuation GraphData.py
 ## Create visualizations of the evacuation route line data for the Northern Gulf
-## analyzed using the 
+## analyzed using the Evacuation route_Stillwater_Analysis.py script.
 ##
 ## Created: February 2018
 ## Author: Amber Halstead <amber.halstead@duke.edu>
