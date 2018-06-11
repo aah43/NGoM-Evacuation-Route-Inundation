@@ -1,6 +1,6 @@
 ##--------------------------------------------------------------------------------
 ## Evacuation route_Stillwater_Analysis.py
-## Analyze evacuation routes line data for the Northern Gulf
+## Analyze evacuation route line data for the Northern Gulf
 ## by extracting values from EESLR-NGOM stillwater storm surge raster data
 ##
 ## Created: February 2018
