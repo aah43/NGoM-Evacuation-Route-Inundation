@@ -1,8 +1,5 @@
 NGoM-Evacuation-Route-Inundation
-    These scripts are used to examine inundation under future sea level rise scenarios during 100-year flood events. The script 
-    utilizes the NCCOS Ecological Effects of Sea Level Rise in the Northern Gulf of Mexico (EESLR-NGOM)dataset. 
-    (currently available at: https://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.nodc:170340) and Homeland Infrastructure Foudation-
-    Level Data (HIFLD) Hurricane Evacuation Routes file (currently available at: https://hifld-geoplatform.opendata.arcgis.com/datasets/hurricane-evacuation-routes)
+    These scripts are used to examine inundation under future sea level rise scenarios during 100-year flood events. The script utilizes the NCCOS Ecological Effects of Sea Level Rise in the Northern Gulf of Mexico (EESLR-NGOM)dataset (currently available at: https://data.nodc.noaa.gov/cgi-bin/iso?id=gov.noaa.nodc:170340) and Homeland Infrastructure Foudation-Level Data (HIFLD) Hurricane Evacuation Routes file (currently available at: https://hifld-geoplatform.opendata.arcgis.com/datasets/hurricane-evacuation-routes)
 
 
 Authors
@@ -14,10 +11,7 @@ Acknowledgments
      Dr. Christine Buckel, NOAA Beaufort Lab 
      
 Citations
-     Bilskie, Matthew V.; Hagen, Scott C.; Medeiros, Stephen; Kidwell, David; Buckel, Christine; Passeri, Davina (2018). 
-     NCCOS Ecological Effects of Sea Level Rise in the Northern Gulf of Mexico (EESLR-NGOM): Simulated Return Period 
-     Stillwater Elevation (NCEI Accession 0170340). Version 1.1. NOAA National Centers for Environmental Information. Dataset. 
-     doi:10.7289/V54B2ZKR 
+     Bilskie, Matthew V.; Hagen, Scott C.; Medeiros, Stephen; Kidwell, David; Buckel, Christine; Passeri, Davina (2018). NCCOS Ecological Effects of Sea Level Rise in the Northern Gulf of Mexico (EESLR-NGOM): Simulated Return Period Stillwater Elevation (NCEI Accession 0170340). Version 1.1. NOAA National Centers for Environmental Information. Dataset. doi:10.7289/V54B2ZKR 
      
      
 
