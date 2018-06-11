@@ -1,4 +1,12 @@
-import arcpy
+##--------------------------------------------------------------------------------
+## Evacuation GraphData.py
+## Create visualizations of the evacuation route line data for the Northern Gulf
+## analyzed using the 
+##
+## Created: February 2018
+## Author: Amber Halstead <amber.halstead@duke.edu>
+##--------------------------------------------------------------------------------
+# Import necessary modulesimport arcpy
 import pandas as pd
 
 #Set the workspace to the ModelOutputs subfolder
